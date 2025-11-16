@@ -69,6 +69,8 @@ R-squared (R2): Represents the proportion of the variance in the dependent varia
 
 
 //WEEK 3
+
+
 Summary of findings:
 The analysis revealed several strong positive correlations, particularly among the 'f.1_' monthly consumption values, indicating a consistent consumption pattern over time. This is expected as water consumption in consecutive months or across similar periods in different years often tracks similarly.
 Strong negative correlations are also identified, suggesting inverse relationships between certain features. These typically indicate that as one variable increases, the other tends to decrease.
