@@ -66,3 +66,10 @@ Theory: Evaluating a model is crucial to understand how well it performs. For re
 MAE: Measures the average magnitude of the errors in a set of predictions, without considering their direction. It's robust to outliers.
 MSE & RMSE: Both penalize larger errors more significantly. RMSE is often preferred as it's in the same units as the target variable, making it more interpretable than MSE.
 R-squared (R2): Represents the proportion of the variance in the dependent variable that is predictable from the independent variables. A higher R2 indicates a better fit, with a value of 1 meaning the model explains all the variance.
+
+
+//WEEK 3
+Summary of findings:
+The analysis revealed several strong positive correlations, particularly among the 'f.1_' monthly consumption values, indicating a consistent consumption pattern over time. This is expected as water consumption in consecutive months or across similar periods in different years often tracks similarly.
+Strong negative correlations are also identified, suggesting inverse relationships between certain features. These typically indicate that as one variable increases, the other tends to decrease.
+The 'DC' and 'UL' columns also show varying degrees of correlation with the monthly consumption values, which could be explored further for their impact on water usage.
